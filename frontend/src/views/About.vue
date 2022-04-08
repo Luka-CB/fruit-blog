@@ -19,7 +19,7 @@
         <p>
           Code is available
           <a
-            href="https://github.com/Luka-CB/stream-pool"
+            href="https://github.com/Luka-CB/fruit-blog"
             target="_blank"
             rel="noreferrer"
           >
